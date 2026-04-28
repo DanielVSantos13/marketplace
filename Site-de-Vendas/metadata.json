@@ -1,0 +1,6 @@
+{
+  "name": "Marketplace Manager",
+  "description": "A comprehensive marketplace management platform with product CRUD, category management, order tracking, and an administrative dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
